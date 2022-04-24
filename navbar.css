@@ -1,0 +1,15 @@
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.nav-item:hover {
+  transform: translateY(-5px);
+}
+nav .logo {
+  color: whitesmoke;
+  text-decoration: none;
+}
