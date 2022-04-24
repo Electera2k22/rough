@@ -1,0 +1,19 @@
+#details
+{
+    width: 85%;
+    margin: auto;
+
+}
+
+.about-img
+{
+    height: 250px;
+    width: 250px;
+    border-radius: 10%;
+    margin: 30px;
+}
+
+#credits
+{
+    margin-top: 150px;
+}
